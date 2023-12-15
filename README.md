@@ -1,4 +1,5 @@
 Linear Regression from Scratch Project
+
 This project showcases the implementation of linear regression from scratch using Python. The primary focus is on building a regression model, understanding the cost function, utilizing mean square error for optimization, and implementing the gradient descent algorithm.
 Project Overview:
 1. Building Linear Regression from Scratch:
@@ -15,3 +16,8 @@ Project Overview:
     Key Steps:
         Application of gradient descent on the Titanic dataset.
         Utilization of scikit-learn library for comparison and validation.
+
+Project Structure:
+
+    linear_regression_scratch.ipynb: Jupyter Notebook containing the implementation of linear regression from scratch.
+    titanic_gradient_descent.ipynb: Jupyter Notebook applying gradient descent on the Titanic dataset.
