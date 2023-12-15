@@ -11,8 +11,5 @@ This project showcases the implementation of linear regression from scratch usin
         - Optimization using the gradient descent algorithm.
 
 ## 2. Application on Titanic Dataset:
- - Objective: Extend the implementation to a real-world scenario using the Titanic dataset.
- - Key Steps:
-        - Application of gradient descent on the Titanic dataset.
-        - Utilization of scikit-learn library for comparison and validation.
+ Extend the implementation to a real-world scenario using the Titanic dataset.
 
