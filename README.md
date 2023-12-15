@@ -1,4 +1,4 @@
-Linear Regression from Scratch Project
+## Linear Regression from Scratch Project
 
 This project showcases the implementation of linear regression from scratch using Python. The primary focus is on building a regression model, understanding the cost function, utilizing mean square error for optimization, and implementing the gradient descent algorithm.
 Project Overview:
